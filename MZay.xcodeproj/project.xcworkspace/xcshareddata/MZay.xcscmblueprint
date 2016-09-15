@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3C623895F570FBDB2649E95463290C5D6921F302" : 0,
+    "951B8E3541CFB330371F9EE5684D7A3D6A1F2D1D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5F6A1A4F-2AE8-4E96-8B02-494B115752A4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3C623895F570FBDB2649E95463290C5D6921F302" : "..\/GitHub\/Simple-UIPageViewController-Example",
+    "951B8E3541CFB330371F9EE5684D7A3D6A1F2D1D" : "..\/GitHub"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MZay",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MZay.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/olxios\/Simple-UIPageViewController-Example.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3C623895F570FBDB2649E95463290C5D6921F302"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/graetzer\/SGViewPager.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "951B8E3541CFB330371F9EE5684D7A3D6A1F2D1D"
+    }
+  ]
+}

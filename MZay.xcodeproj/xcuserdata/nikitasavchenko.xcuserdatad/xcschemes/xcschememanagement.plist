@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>MZayProduct.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -23,6 +28,16 @@
 			<true/>
 		</dict>
 		<key>9997C1951D68FF06002E6217</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE95730E1D754BF100623BA5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE9573171D754BF100623BA5</key>
 		<dict>
 			<key>primary</key>
 			<true/>

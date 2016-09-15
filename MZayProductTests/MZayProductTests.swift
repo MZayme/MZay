@@ -1,15 +1,15 @@
 //
-//  MZay_learning_1_0Tests.swift
-//  MZay learning 1.0Tests
+//  MZayProductTests.swift
+//  MZayProductTests
 //
-//  Created by Nikita Savchenko on 8/21/16.
+//  Created by MZay on 8/30/16.
 //  Copyright © 2016 Nikita Savchenko. All rights reserved.
 //
 
 import XCTest
-@testable import MZay_learning_1_0
+@testable import MZayProduct
 
-class MZay_learning_1_0Tests: XCTestCase {
+class MZayProductTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
@@ -28,7 +28,7 @@ class MZay_learning_1_0Tests: XCTestCase {
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
-        self.measure {
+        self.measureBlock {
             // Put the code you want to measure the time of here.
         }
     }

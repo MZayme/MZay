@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0800"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -48,14 +48,24 @@
                ReferencedContainer = "container:MZay learning 1.0.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "CE9573171D754BF100623BA5"
+               BuildableName = "MZayProductTests.xctest"
+               BlueprintName = "MZayProductTests"
+               ReferencedContainer = "container:MZay.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9997C1761D68FF06002E6217"
-            BuildableName = "MZay learning 1.0.app"
-            BlueprintName = "MZay learning 1.0"
-            ReferencedContainer = "container:MZay learning 1.0.xcodeproj">
+            BuildableName = "MZay.app"
+            BlueprintName = "MZay"
+            ReferencedContainer = "container:MZay.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +86,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9997C1761D68FF06002E6217"
-            BuildableName = "MZay learning 1.0.app"
-            BlueprintName = "MZay learning 1.0"
-            ReferencedContainer = "container:MZay learning 1.0.xcodeproj">
+            BuildableName = "MZay.app"
+            BlueprintName = "MZay"
+            ReferencedContainer = "container:MZay.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
