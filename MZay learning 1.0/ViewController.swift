@@ -37,6 +37,7 @@ class ViewController: UIViewController {
     
     @IBAction func action2(_ button1: AnyObject) {
         label3.text="AWESOME! YOU CLICKED THE BUTTON!"
+        print("yeah, baby!")
     // After clicking the button1 label3 turns into message.
     }
 
