@@ -16,6 +16,7 @@
 		9997C1851D68FF06002E6217 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9997C1831D68FF06002E6217 /* LaunchScreen.storyboard */; };
 		9997C1901D68FF06002E6217 /* MZay_learning_1_0Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9997C18F1D68FF06002E6217 /* MZay_learning_1_0Tests.swift */; };
 		9997C19B1D68FF06002E6217 /* MZay_learning_1_0UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9997C19A1D68FF06002E6217 /* MZay_learning_1_0UITests.swift */; };
+		999ED3771D8BE56200929FEC /* CalcViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 999ED3761D8BE56200929FEC /* CalcViewController.swift */; };
 		CE9573191D754BF100623BA5 /* MZayProduct.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE95730F1D754BF100623BA5 /* MZayProduct.framework */; };
 		CE9573241D754BF100623BA5 /* MZayProduct.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE95730F1D754BF100623BA5 /* MZayProduct.framework */; };
 		CE9573251D754BF100623BA5 /* MZayProduct.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = CE95730F1D754BF100623BA5 /* MZayProduct.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
@@ -79,18 +80,19 @@
 		995F8DE51D7422DD009A1AD3 /* ISPageItemController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ISPageItemController.swift; path = "../../GitHub/Simple-UIPageViewController-Example/Paging_Swift/Paging_Swift/ISPageItemController.swift"; sourceTree = "<group>"; };
 		995F8DE61D7422DD009A1AD3 /* ISViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ISViewController.swift; path = "../../GitHub/Simple-UIPageViewController-Example/Paging_Swift/Paging_Swift/ISViewController.swift"; sourceTree = "<group>"; };
 		9997C1771D68FF06002E6217 /* MZay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MZay.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		9997C17A1D68FF06002E6217 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9997C17A1D68FF06002E6217 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = "MZay learning 1.0/AppDelegate.swift"; sourceTree = "<group>"; };
 		9997C17C1D68FF06002E6217 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		9997C17F1D68FF06002E6217 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9997C1811D68FF06002E6217 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9997C1841D68FF06002E6217 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		9997C1861D68FF06002E6217 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9997C1861D68FF06002E6217 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = "MZay learning 1.0/Info.plist"; sourceTree = "<group>"; };
 		9997C18B1D68FF06002E6217 /* MZay.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MZay.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9997C18F1D68FF06002E6217 /* MZay_learning_1_0Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MZay_learning_1_0Tests.swift; sourceTree = "<group>"; };
 		9997C1911D68FF06002E6217 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9997C1961D68FF06002E6217 /* MZay.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MZay.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9997C19A1D68FF06002E6217 /* MZay_learning_1_0UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MZay_learning_1_0UITests.swift; sourceTree = "<group>"; };
 		9997C19C1D68FF06002E6217 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		999ED3761D8BE56200929FEC /* CalcViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CalcViewController.swift; path = "../../MZay Calc/MZay Calc/CalcViewController.swift"; sourceTree = "<group>"; };
 		CE9573091D75471900623BA5 /* MZay-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MZay-Bridging-Header.h"; sourceTree = "<group>"; };
 		CE95730F1D754BF100623BA5 /* MZayProduct.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MZayProduct.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE9573181D754BF100623BA5 /* MZayProductTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MZayProductTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -153,14 +155,10 @@
 		9997C16E1D68FF06002E6217 = {
 			isa = PBXGroup;
 			children = (
+				999ED3781D8BE58900929FEC /* Calc */,
 				995F8DD11D740805009A1AD3 /* ImageSlider */,
 				9997C1791D68FF06002E6217 /* MZay learning 1.0 */,
-				9997C18E1D68FF06002E6217 /* MZay learning 1.0Tests */,
-				9997C1991D68FF06002E6217 /* MZay learning 1.0UITests */,
-				9997C1781D68FF06002E6217 /* Products */,
-				CE9573091D75471900623BA5 /* MZay-Bridging-Header.h */,
-				CE95732D1D754C4700623BA5 /* Photos.framework */,
-				CE95732E1D754C4700623BA5 /* PhotosUI.framework */,
+				999ED3751D8BE53D00929FEC /* etc. */,
 			);
 			sourceTree = "<group>";
 			usesTabs = 0;
@@ -180,12 +178,9 @@
 		9997C1791D68FF06002E6217 /* MZay learning 1.0 */ = {
 			isa = PBXGroup;
 			children = (
-				9997C17A1D68FF06002E6217 /* AppDelegate.swift */,
 				9997C17C1D68FF06002E6217 /* ViewController.swift */,
 				9997C17E1D68FF06002E6217 /* Main.storyboard */,
 				9997C1811D68FF06002E6217 /* Assets.xcassets */,
-				9997C1831D68FF06002E6217 /* LaunchScreen.storyboard */,
-				9997C1861D68FF06002E6217 /* Info.plist */,
 			);
 			path = "MZay learning 1.0";
 			sourceTree = "<group>";
@@ -206,6 +201,31 @@
 				9997C19C1D68FF06002E6217 /* Info.plist */,
 			);
 			path = "MZay learning 1.0UITests";
+			sourceTree = "<group>";
+		};
+		999ED3751D8BE53D00929FEC /* etc. */ = {
+			isa = PBXGroup;
+			children = (
+				9997C1831D68FF06002E6217 /* LaunchScreen.storyboard */,
+				9997C17A1D68FF06002E6217 /* AppDelegate.swift */,
+				9997C1861D68FF06002E6217 /* Info.plist */,
+				9997C18E1D68FF06002E6217 /* MZay learning 1.0Tests */,
+				9997C1991D68FF06002E6217 /* MZay learning 1.0UITests */,
+				9997C1781D68FF06002E6217 /* Products */,
+				CE9573091D75471900623BA5 /* MZay-Bridging-Header.h */,
+				CE95732D1D754C4700623BA5 /* Photos.framework */,
+				CE95732E1D754C4700623BA5 /* PhotosUI.framework */,
+			);
+			name = etc.;
+			sourceTree = "<group>";
+		};
+		999ED3781D8BE58900929FEC /* Calc */ = {
+			isa = PBXGroup;
+			children = (
+				999ED3761D8BE56200929FEC /* CalcViewController.swift */,
+			);
+			name = Calc;
+			path = "MZay learning 1.0";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -420,6 +440,7 @@
 			files = (
 				9997C17D1D68FF06002E6217 /* ViewController.swift in Sources */,
 				995F8DE91D7422DD009A1AD3 /* ISViewController.swift in Sources */,
+				999ED3771D8BE56200929FEC /* CalcViewController.swift in Sources */,
 				995F8DE81D7422DD009A1AD3 /* ISPageItemController.swift in Sources */,
 				9997C17B1D68FF06002E6217 /* AppDelegate.swift in Sources */,
 			);
@@ -500,6 +521,7 @@
 				9997C1841D68FF06002E6217 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			path = "MZay learning 1.0";
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
